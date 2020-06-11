@@ -2,7 +2,7 @@
 
 Coronavirus is spreading fast. While the country is attempting to unlock the economy, the number of new cases per day in India has almost touched 10,000. Actionable insights to contain the spread is the need of the hour.
 
-Keeping this goal in mind, we have developed a [dashboard](covid-isical.tech) under the guidance of a faculty member from Indian Statistical Institute Kolkata, to enable policymakers to extract a variety of information from publicly available data on COVID 19. While the dashboard provides risk summaries and enables users to look at the data from different perspectives, arriving at actionable insights may be difficult. The reports in this repository are a supplement to the dashboard. We propose to continue to analyse available data and bring out new insights regularly. 
+Keeping this goal in mind, we have developed a [dashboard](https://covid-isical.tech) under the guidance of a faculty member from Indian Statistical Institute Kolkata, to enable policymakers to extract a variety of information from publicly available data on COVID 19. While the dashboard provides risk summaries and enables users to look at the data from different perspectives, arriving at actionable insights may be difficult. The reports in this repository are a supplement to the dashboard. We propose to continue to analyse available data and bring out new insights regularly. 
 
 We believe our effort would be beneficial to the policymakers and other users. We are willing to provide analytical support and are open to criticism. 
 
@@ -17,7 +17,7 @@ Please refer to the report for more details.
 # Links
 
 ## Contact Us
-You can either create an issue or drop us an [e-mail](contact@covid-isical.tech)
+You can either create an issue or drop us an [e-mail](mailto:contact@covid-isical.tech)
 
 ## Data Sources
 1. [Covid19-India](https://github.com/covid19india/api)
